@@ -1,0 +1,155 @@
+.portfolio-nav-background {
+    background-color: #74C69D;
+    height: 70 px;
+}
+
+.p-logo-section {
+    text-align: center;
+    max-width: 335px;
+    line-height: 25px;
+}
+
+.p-main-LearnMore {
+    background-color: #212529;
+    color: white;
+    width: 170px;
+    height: 48px;
+    font-size: 2rem;
+    border-radius: 5px;
+    box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.2);
+
+}
+
+.p-main-button-LearnMore {
+    display: flex;
+    justify-content: center;
+    padding-top: 27.95px;
+}
+
+.nav-list {
+    color: white;
+    display: flex;
+    gap: 30px;
+}
+
+.nav-list {
+    display: none;
+}
+
+.nav-selected {
+    color: rgb(0, 60, 255);
+}
+
+.nav-position {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 17px 20px;
+}
+
+.grid-box {
+    display: flex;
+    justify-content: center;
+}
+
+.grid {
+    padding-top: 45px;
+    display: grid;
+    grid-gap: 55px;
+    grid-template-columns: 1fr;
+}
+
+.main-tittle-1 {
+    font-family: Work Sans;
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: #74C69D;
+    padding-top: 22px;
+    letter-spacing: 5px;
+}
+
+.main-tittle-2 {
+    font-family: Crimson Text;
+    font-size: 2.4rem;
+    font-weight: 700;
+    padding-top: 16px;
+}
+
+.main-tittle-3 {
+    font-family: Work Sans;
+    font-size: 2rem;
+    font-weight: 400;
+    padding-top: 16px;
+    line-height: 25px;
+}
+
+.logo-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.footer-mob {
+    height: 125px;
+    background-color: #74C69D;
+    margin-top: 39px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.social-icons {
+    margin-top: 31px;
+}
+
+.icon-1 {
+    padding-left: 20px;
+}
+
+.footer-tittle {
+    margin-top: 20px;
+}
+
+.footer-text {
+    color: white;
+    font-family: Work Sans;
+    font-size: 2rem;
+    font-weight: 400;
+    animation-name: gradient;
+    animation-duration: 5s
+    
+}
+
+.nav-explore:hover {
+    background-color: #212529;
+    color: white;
+}
+
+.p-main-LearnMore:hover {
+    background-color: white;
+    color: black;
+}
+
+@keyframes gradient {
+    
+    0% {
+        color: rgb(255, 130, 130);
+    }
+
+    25% {
+        color: rgb(255, 255, 167);
+    }
+
+    50% {
+        color: rgb(156, 156, 255);
+    }
+
+    75% {
+        color: rgb(159, 255, 159);
+    }
+
+    100% {
+        color: rgb(255, 255, 255);
+    }
+}

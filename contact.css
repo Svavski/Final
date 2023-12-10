@@ -1,0 +1,139 @@
+.c-nav-background {
+    background-color: #74C69D;
+    height: 70 px;
+}
+
+.nav-list {
+    color: white;
+    display: flex;
+    gap: 30px;
+}
+
+.c-logo-section {
+    text-align: center;
+    max-width: 335px;
+    line-height: 25px;
+}
+
+.c-main-LearnMore {
+    background-color: #212529;
+    color: white;
+    width: 335px;
+    height: 48px;
+    font-size: 2rem;
+    border-radius: 5px;
+    box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.2);
+
+}
+
+.c-main-button-LearnMore {
+    display: flex;
+    justify-content: center;
+    padding-top:30px;
+}
+
+.c-main-LearnMore:hover {
+    background-color: white;
+    color: black;
+}
+
+
+.s-nav-list {
+    display: none;
+}
+
+.nav-list {
+    display: none;
+}
+
+.nav-selected {
+    color: rgb(0, 60, 255);
+}
+
+.nav-position {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 17px 20px;
+}
+
+.main-tittle-2 {
+    font-family: Crimson Text;
+    font-size: 2.4rem;
+    font-weight: 700;
+    padding-top: 16px;
+}
+
+.main-tittle-3 {
+    font-family: Work Sans;
+    font-size: 2rem;
+    font-weight: 400;
+    padding-top: 16px;
+    line-height: 25px;
+}
+
+.logo-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.map {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.google-map {
+    max-width: 335px;
+    height: 224px;
+}
+
+.line-box {
+    display: flex;
+    justify-content: center;
+    padding-top: 19px;
+}
+
+.line-box-1 {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
+
+.line-name {
+    font-family: Work Sans;
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+.line-name-1 {
+    font-family: Work Sans;
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+.line {
+    margin-top: 16px;
+}
+
+input[type='text'] {
+    width: 335px;
+    height: 38px;
+    background-color: #EEEEEE;
+    font-size: 2rem;
+    border: 2px solid black;
+}
+
+textarea {
+    background-color: #EEEEEE;
+    width: 335px;
+    height: 141px;
+    font-size: 2rem;
+    border: 2px solid black;
+}
+
+.footer-mob {
+    margin-top: 59px;
+}

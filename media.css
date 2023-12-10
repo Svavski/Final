@@ -1,0 +1,145 @@
+@media all and (min-width: 1440px) {
+    .nav-position {
+        padding-top: 35px;
+    }
+
+    .nav-list {
+        display: flex;
+        font-family: Work Sans;
+        font-size: 2.0rem;
+        font-weight: 400;
+        padding: 0 130px;
+        color: white;
+        display: flex;
+        gap: 30px;
+    }
+
+    .nav-background {
+        height: 586px;
+    }
+
+    .main-logo {
+        padding-left: 120px;
+    }
+
+    .burger-button {
+        display: none;
+    }
+
+    .tittle-box {
+        align-items: center;
+    }
+
+    .nav-title {
+        color: white;
+        max-width: 416px;
+    }
+
+    .for-media {
+        display: flex;
+        justify-content: center;
+        flex-direction: row-reverse;
+        gap: 120px;
+    }
+
+    .nav-title-2 {
+        font-family: Crimson Text;
+        font-size: 4rem;
+        font-weight: 700;
+        padding-top: 15px;
+    }
+
+    .nav-title-3 {
+        font-family: Work Sans;
+        font-size: 1.5rem;
+        font-weight: 400;
+        padding-top: 15px;
+    }
+
+    .main-tittle-2 {
+        font-family: Crimson Text;
+        font-size: 4rem;
+        font-weight: 700;
+        padding-top: 16px;
+    }
+
+    .logo-section {
+        text-align: center;
+        max-width: 411px;
+    }
+
+    .logos {
+        display: flex;
+        flex-direction: row;
+        height: auto;
+        gap: 68px;
+    }
+
+    .main-image-formedia {
+
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 110px;
+    }
+
+    .img-tittle-1 {
+        font-family: Crimson Text;
+        font-size: 4rem;
+        font-weight: 700;
+    }
+
+    .section-1-image-1-tittle {
+        max-width: 462px;
+    }
+
+    .second-image-formedia {
+        display: flex;
+        flex-direction: row-reverse;
+        align-items: center;
+        gap: 110px;
+    }
+
+    .img-tittle-3 {
+        font-family: Crimson Text;
+        font-size: 4rem;
+        font-weight: 700;
+    }
+
+    .section-1-image-2-tittle {
+        max-width: 470px;
+    }
+
+    .main-tittle-5 {
+        font-family: Crimson Text;
+        font-size: 4rem;
+        font-weight: 700;
+
+    }
+
+    .section-box-2 {
+        text-align: center;
+        max-width: 404px;
+        padding-top: 102px;
+    }
+
+    .person-media {
+        display: flex;
+        gap: 47px;
+    }
+
+    .footer-mob {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 0 131px;
+    }
+
+    .social-icons {
+        margin: 0;
+    }
+
+    .footer-tittle {
+        margin: 0;
+    }
+}

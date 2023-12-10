@@ -1,0 +1,91 @@
+@media all and (min-width: 1440px) {
+    .nav-list {
+        display: flex;
+        font-family: Work Sans;
+        font-size: 2.0rem;
+        font-weight: 400;
+        padding: 0 130px;
+    }
+
+    .c-nav-background {
+        background-color: #74C69D;
+        height: 123px;
+    }
+
+    .nav-position {
+        padding-top: 35px;
+    }
+
+    .main-logo {
+        padding-left: 120px;
+    }
+
+    .burger-button {
+        display: none;
+    }
+
+
+    .footer-mob {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 0 131px;
+    }
+
+    .social-icons {
+        margin: 0;
+    }
+
+    .footer-tittle {
+        margin: 0;
+    }
+
+    .google-map {
+        max-width: 575px;
+        height: 384px;
+    }
+
+    .contact-box {
+        display: flex;
+        flex-direction: row-reverse;
+        gap: 30px;
+        justify-content: center;
+        align-items: center;
+        margin-top: 21px;
+        height: 385px;
+    }
+
+    input[type='text'] {
+        width: 575px;
+    }
+
+    .line-box-1 {
+        display: flex;
+        justify-content: center;
+    }
+
+    textarea {
+        background-color: #EEEEEE;
+        width: 575px;
+        height: 75px;
+        font-size: 2rem;
+        border: 2px solid black;
+    }
+
+    .c-main-LearnMore {
+        width: 575px;
+    }
+
+    .c-main-button-LearnMore {
+        padding-top: 18px;
+    }
+
+    .contact-box {
+        padding-top: 61px;
+    }
+
+    .logo-box {
+        padding-top: 30px;
+    }
+
+}

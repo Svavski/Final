@@ -1,0 +1,57 @@
+@media all and (min-width: 785px) {
+    .grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        grid-gap: 20px;
+    }
+
+}
+
+@media all and (min-width: 1440px) {
+    .nav-list {
+        display: flex;
+        font-family: Work Sans;
+        font-size: 2.0rem;
+        font-weight: 400;
+        padding: 0 130px;
+    }
+
+    .portfolio-nav-background {
+        height: 123px;
+   
+    }
+
+    .nav-position {
+        padding-top: 35px;
+    }
+
+    .main-logo {
+        padding-left: 120px;
+    }
+
+    .burger-button {
+        display: none;
+    }
+
+    .grid {
+        display: grid;
+        grid-template-columns: 570px 550px;
+        grid-template-rows: 335px 365px 355px 347px;
+    }
+
+    .footer-mob {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 0 131px;
+    }
+
+    .social-icons {
+        margin: 0;
+    }
+
+    .footer-tittle {
+        margin: 0;
+    }
+}

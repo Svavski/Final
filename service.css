@@ -1,0 +1,172 @@
+.portfolio-nav-background {
+    background-color: #74C69D;
+    height: 70 px;
+}
+
+.nav-list {
+    color: white;
+    display: flex;
+    gap: 30px;
+}
+
+
+
+.p-logo-section {
+    text-align: center;
+    max-width: 335px;
+    line-height: 25px;
+}
+
+.p-main-LearnMore {
+    background-color: #212529;
+    color: white;
+    width: 170px;
+    height: 48px;
+    font-size: 2rem;
+    border-radius: 5px;
+    box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.2);
+
+}
+
+.p-main-LearnMore:hover {
+    background-color: white;
+    color: black;
+}
+
+.p-main-button-LearnMore {
+    display: flex;
+    justify-content: center;
+    padding-top: 45px;
+}
+
+.nav-background {
+    background-color: #74C69D;
+    height: 642px;
+}
+
+.s-nav-list {
+    display: none;
+}
+
+.nav-list {
+    display: none;
+}
+
+.nav-selected {
+    color: rgb(0, 60, 255);
+}
+
+.nav-position {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 17px 20px;
+}
+
+.main-tittle-1 {
+    font-family: Work Sans;
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: #74C69D;
+    padding-top: 22px;
+    letter-spacing: 5px;
+}
+
+.main-tittle-2 {
+    font-family: Crimson Text;
+    font-size: 2.4rem;
+    font-weight: 700;
+    padding-top: 16px;
+}
+
+.main-tittle-3 {
+    font-family: Work Sans;
+    font-size: 2rem;
+    font-weight: 400;
+    padding-top: 16px;
+    line-height: 25px;
+}
+
+.logo-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.services {
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.services-box {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 339px;
+    height: 542px;
+    color: black;
+    border-radius: 5px;
+    box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.2);
+}
+
+.service-main {
+    font-family: Work Sans;
+    font-size: 1.5rem;
+    font-weight: 400;
+    padding-top: 46px;
+}
+
+.price {
+    font-family: Work Sans;
+    font-size: 4rem;
+    font-weight: 700;
+}
+
+.month {
+    font-family: Work Sans;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: rgba(33, 37, 41, 0.5);
+}
+
+.month-price {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+}
+
+.service-tittle {
+    max-width: 279px;
+    font-family: Work Sans;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: rgba(33, 37, 41, 0.5);
+    text-align: center;
+    padding-top: 10px;
+}
+
+.check-text {
+    font-family: Work Sans;
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-left: 11px;
+}
+
+.check {
+    display: flex;
+    align-items: center;
+    padding-top: 11px;
+}
+
+.check-1 {
+    display: flex;
+    align-items: center;
+    padding-top: 52px;
+}
+
+.footer-mob {
+    margin-top: 135px;
+}

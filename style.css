@@ -1,0 +1,388 @@
+.nav-background {
+    background-color: #74C69D;
+    height: 642px;
+}
+
+.nav-list {
+    display: none;
+}
+
+
+
+.nav-selected {
+    color: rgb(0, 60, 255);
+}
+
+.nav-position {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 17px 20px;
+}
+
+.nav-image {
+    display: flex;
+    justify-content: center;
+    margin-top: 32px;
+}
+
+.nav-explore {
+    background-color: white;
+}
+
+.tittle-box {
+    display: flex;
+    justify-content: center;
+}
+
+.nav-title {
+    color: white;
+    max-width: 335px;
+}
+
+.nav-title-1 {
+    font-family: Work Sans;
+    font-size: 1.6rem;
+    font-weight: 700;
+    padding-top: 15px;
+    letter-spacing: 5px;
+}
+
+.nav-title-2 {
+    font-family: Crimson Text;
+    font-size: 2.8rem;
+    font-weight: 700;
+    padding-top: 15px;
+}
+
+.nav-title-3 {
+    font-family: Work Sans;
+    font-size: 1.5rem;
+    font-weight: 400;
+    padding-top: 15px;
+}
+
+.nav-explore {
+    background-color: white;
+    width: 170px;
+    height: 48px;
+    font-size: 2rem;
+    border-radius: 5px;
+    box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.2);
+
+}
+
+.button-explore {
+    padding-top: 25px;
+}
+
+.logo-box {
+    display: flex;
+    justify-content: center;
+}
+
+.logo-section {
+    text-align: center;
+    max-width: 335px;
+}
+
+.main-tittle-1 {
+    font-family: Work Sans;
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: #74C69D;
+    padding-top: 22px;
+    letter-spacing: 5px;
+}
+
+.main-tittle-2 {
+    font-family: Crimson Text;
+    font-size: 2.4rem;
+    font-weight: 700;
+    padding-top: 16px;
+}
+
+.main-tittle-3 {
+    font-family: Work Sans;
+    font-size: 2rem;
+    font-weight: 400;
+    padding-top: 16px;
+    line-height: 25px;
+}
+
+.logo-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logos {
+    padding-top: 55px;
+    height: 386.45px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.main-LearnMore {
+    background-color: #212529;
+    color: white;
+    width: 170px;
+    height: 48px;
+    font-size: 2rem;
+    border-radius: 5px;
+    box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.2);
+
+}
+
+.main-button-LearnMore {
+    padding-top: 55px;
+}
+
+.img-tittle-1 {
+    font-family: Crimson Text;
+    font-size: 2.4rem;
+    font-weight: 700;
+    padding-top: 30px;
+}
+
+.img-tittle-2 {
+    font-family: Work Sans;
+    font-size: 1.5rem;
+    font-weight: 400;
+    padding-top: 20px;
+    color: rgba(33, 37, 41, 0.5);
+
+}
+
+.section-1-image-1-tittle {
+    max-width: 334px;
+    margin-top: 30px;
+}
+
+.main-LearnMore-section-1 {
+    background-color: #212529;
+    color: white;
+    width: 170px;
+    height: 48px;
+    font-size: 2rem;
+    border-radius: 5px;
+    box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.2);
+
+}
+
+.main-button-LearnMore-section {
+    padding-top: 20px;
+}
+
+.cartoon-image-1 {
+    padding-top: 59.55px;
+}
+
+.img-tittle-3 {
+    font-family: Crimson Text;
+    font-size: 2.4rem;
+    font-weight: 700;
+    padding-top: 30px;
+}
+
+.img-tittle-4 {
+    font-family: Work Sans;
+    font-size: 1.5rem;
+    font-weight: 400;
+    padding-top: 20px;
+    color: rgba(33, 37, 41, 0.5);
+}
+
+.section-1-image-2-tittle {
+    max-width: 334px;
+    margin-top: 30px;
+}
+
+.main-LearnMore-section-2 {
+    background-color: #212529;
+    color: white;
+    width: 170px;
+    height: 48px;
+    font-size: 2rem;
+    border-radius: 5px;
+    box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.2);
+
+}
+
+.main-button-LearnMore-section-2 {
+    padding-top: 20px;
+}
+
+.cartoon-image-2 {
+    padding-top: 60.12px;
+}
+
+
+
+.box-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.section-box-2 {
+    text-align: center;
+    max-width: 335px;
+}
+
+.main-tittle-4 {
+    font-family: Work Sans;
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: #74C69D;
+    padding-top: 22px;
+    letter-spacing: 5px;
+    
+}
+
+.main-tittle-5 {
+    font-family: Crimson Text;
+    font-size: 2.4rem;
+    font-weight: 700;
+    padding-top: 16px;
+}
+
+.main-tittle-6 {
+    font-family: Work Sans;
+    font-size: 2rem;
+    font-weight: 400;
+    padding-top: 16px;
+    line-height: 25px;
+}
+
+
+
+.persons {
+    margin-top: 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+    width: 279px;
+    height: 299px;
+    border-radius: 5px;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.person-status {
+    display: flex;
+    flex-direction: column;
+    width: 202px;
+    height: 66px;
+}
+
+.name {
+    font-family: Crimson Text;
+    font-size: 2.4rem;
+    font-weight: 700;
+    padding-top: 19px;
+}
+
+.status {
+    font-family: Work Sans;
+    font-size: 1.5rem;
+    font-weight: 400;
+    padding-top: 27px;
+}
+
+.button-LearnMore-perons {
+    background-color: #212529;
+    color: white;
+    width: 170px;
+    height: 48px;
+    font-size: 2rem;
+    border-radius: 5px;
+    box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.2);
+
+}
+
+.button-perons {
+    padding-top: 44px;
+}
+
+.footer-mob {
+    height: 125px;
+    background-color: #74C69D;
+    margin-top: 39px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.social-icons {
+    margin-top: 31px;
+}
+
+.icon-1 {
+    padding-left: 20px;
+}
+
+.footer-tittle {
+    margin-top: 20px;
+}
+
+.footer-text {
+    color: white;
+    font-family: Work Sans;
+    font-size: 2rem;
+    font-weight: 400;
+    animation-name: gradient;
+    animation-duration: 5s
+    
+}
+
+.nav-explore:hover {
+    background-color: #212529;
+    color: white;
+}
+
+.main-LearnMore:hover {
+    background-color: white;
+    color: black;
+}
+
+.main-LearnMore-section-1:hover {
+    background-color: white;
+    color: black;
+}
+
+.main-LearnMore-section-2:hover {
+    background-color: white;
+    color: black;
+}
+
+.button-LearnMore-perons:hover {
+    background-color: white;
+    color: black;
+}
+
+@keyframes gradient {
+    
+    0% {
+        color: rgb(255, 130, 130);
+    }
+
+    25% {
+        color: rgb(255, 255, 167);
+    }
+
+    50% {
+        color: rgb(156, 156, 255);
+    }
+
+    75% {
+        color: rgb(159, 255, 159);
+    }
+
+    100% {
+        color: rgb(255, 255, 255);
+    }
+}

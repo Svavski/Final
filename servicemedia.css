@@ -1,0 +1,52 @@
+@media all and (min-width: 1440px) {
+
+    .nav-list {
+        display: flex;
+        font-family: Work Sans;
+        font-size: 2.0rem;
+        font-weight: 400;
+        padding: 0 130px;
+        color: white;
+    }
+
+    .portfolio-nav-background {
+        height: 123px;
+   
+    }
+
+    .nav-position {
+        padding-top: 35px;
+    }
+
+    .burger-button {
+        display: none;
+    }
+
+    .main-logo {
+        padding-left: 120px;
+    }
+
+    .footer-mob {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 0 131px;
+
+    }
+
+    .services {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 105px;
+
+    }
+
+    .social-icons {
+        margin: 0;
+    }
+
+    .footer-tittle {
+        margin: 0;
+    }
+}
